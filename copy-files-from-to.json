@@ -2,23 +2,23 @@
     "copyFiles": [
         {
             "from": "CNAME",
-            "to": "dist/CNAME"
+            "to": "docs/CNAME"
         },
         {
             "from": "node_modules/@fortawesome/fontawesome-free/webfonts/**",
-            "to": "dist/webfonts"
+            "to": "docs/webfonts"
         },
         {
             "from": "src/images/**",
-            "to": "dist/images"
+            "to": "docs/images"
         },
         {
             "from": "node_modules/jquery/dist/jquery.min.js",
-            "to": "dist/js/jquery.min.js"
+            "to": "docs/js/jquery.min.js"
         },
         {
             "from": "node_modules/bootstrap/dist/js/bootstrap.min.js",
-            "to": "dist/js/bootstrap.min.js"
+            "to": "docs/js/bootstrap.min.js"
         }
     ]
 }
